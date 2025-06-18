@@ -1,7 +1,7 @@
 ## Airflow
 logs/*
 plugins/*
-dags/*
+
 
 ## Configs
 .env
